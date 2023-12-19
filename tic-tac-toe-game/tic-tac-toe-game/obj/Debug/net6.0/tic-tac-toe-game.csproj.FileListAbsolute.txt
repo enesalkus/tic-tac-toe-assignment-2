@@ -1,0 +1,14 @@
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\bin\Debug\net6.0\tic-tac-toe-game.exe
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\bin\Debug\net6.0\tic-tac-toe-game.deps.json
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\bin\Debug\net6.0\tic-tac-toe-game.runtimeconfig.json
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\bin\Debug\net6.0\tic-tac-toe-game.dll
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\bin\Debug\net6.0\tic-tac-toe-game.pdb
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.AssemblyInfoInputs.cache
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.AssemblyInfo.cs
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.csproj.CoreCompileInputs.cache
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.dll
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\refint\tic-tac-toe-game.dll
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.pdb
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\tic-tac-toe-game.genruntimeconfig.cache
+C:\Users\NS\Documents\GitHub\tic-tac-toe-game\tic-tac-toe-game\tic-tac-toe-game\obj\Debug\net6.0\ref\tic-tac-toe-game.dll
